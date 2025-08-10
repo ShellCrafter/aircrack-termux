@@ -103,7 +103,7 @@ If you encounter issues, open an Issue or contact me.
 
 Enjoy cracking responsibly! 😎
 
-If you meant you want this **in pure HTML** for something like a GitHub Pages or a blog, I can rewrite it into full HTML with headings, lists, and code blocks so it displays nicely in a browser.  
+This will fix your formatting so normal paragraphs won’t be shown as code after commands.  
 
-Do you want me to make the **HTML version** too? That way it works outside GitHub as well.
+If you want, I can also make it **look more colorful and stylish** with GitHub badges, icons, and section separators so it really stands out.
 
